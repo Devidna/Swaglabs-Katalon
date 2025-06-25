@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login dengan kredensial yang valid</description>
+   <name>Login Test</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b7051906-132d-4ed5-aeea-fd96081871f3</testCaseGuid>
+</TestCaseEntity>

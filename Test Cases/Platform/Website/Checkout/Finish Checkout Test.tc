@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Selesaikan proses checkout</description>
+   <name>Finish Checkout Test</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d74c50c-ef4b-4986-b7b4-bdd1a11aff57</testCaseGuid>
+</TestCaseEntity>

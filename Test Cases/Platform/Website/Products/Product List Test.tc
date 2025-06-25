@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi daftar produk ditampilkan setelah login</description>
+   <name>Product List Test</name>
+   <tag>Sedang</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ee4169c-8f36-44f7-9297-e8f21b9405d3</testCaseGuid>
+</TestCaseEntity>

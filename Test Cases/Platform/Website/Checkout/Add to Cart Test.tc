@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tambah produk ke keranjang</description>
+   <name>Add to Cart Test</name>
+   <tag>Tinggi</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>07983f15-1aed-45ed-a15d-fa5e4d9c3330</testCaseGuid>
+</TestCaseEntity>
